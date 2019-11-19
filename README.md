@@ -5,6 +5,7 @@
 
 ### Type system
 - [RustConf 2017 - Type System Tips for the Real World by Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
+- [A generalist's view of traits - Pascal Hertleif](https://www.youtube.com/watch?v=3YCqgwpuFM0)
 
 ### Embedded
 - [A tale of Rust, the ESP32 and IoT](https://www.youtube.com/watch?v=Fz084MUqR7g)
