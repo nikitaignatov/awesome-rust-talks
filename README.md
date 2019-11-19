@@ -18,3 +18,7 @@
 
 ### Other
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
+
+## ESP32
+
+- [Rust on the ESP32 - Scott Mabin](https://mabez.dev/blog/posts/esp32-rust/)
