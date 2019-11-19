@@ -12,9 +12,11 @@
 - [Rust вместо Си для программирования ARM Cortex-M/Евгений Пономарев](https://www.youtube.com/watch?v=VJNFPty55ac)
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 
-### API Design
+### Libraries
 - [Pascal Hertleif - Writing Idiomatic Libraries in Rust]( https://www.youtube.com/watch?v=0zOg8_B71gE)
 
+### Web API 
+- [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
 
 ### Other
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
