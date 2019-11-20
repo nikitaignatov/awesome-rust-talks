@@ -20,6 +20,7 @@
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
+- [Rust and GraphQL: A match made in heaven - CHRISTIAN LEGNITTO](https://www.youtube.com/watch?v=QXJ0wKBLt-8)
 
 ### Other
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
