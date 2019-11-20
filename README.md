@@ -14,7 +14,8 @@
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 
 ### Libraries
-- [Pascal Hertleif - Writing Idiomatic Libraries in Rust]( https://www.youtube.com/watch?v=0zOg8_B71gE)
+- [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
+- [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
