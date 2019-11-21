@@ -12,7 +12,7 @@
 - [Rust for IOT](https://www.youtube.com/watch?v=P3RUm6__xs4)
 - [Rust вместо Си для программирования ARM Cortex-M/Евгений Пономарев](https://www.youtube.com/watch?v=VJNFPty55ac)
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
-- [Rustarm - Rust for Embedded Systems](https://www.youtube.com/watch?v=k9X26rmsWEM)
+- [Rust for Embedded Systems - Benedict Gaster](https://www.youtube.com/watch?v=k9X26rmsWEM)
 
 ### Libraries
 - [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
