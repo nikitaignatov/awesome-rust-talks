@@ -14,6 +14,7 @@
 - [A generalist's view of traits - Pascal Hertleif](https://www.youtube.com/watch?v=3YCqgwpuFM0)
 
 ### Embedded
+- [BMP180 example on Raspberry Pi - Claus Matzinger](https://www.youtube.com/watch?v=VMaKQ8_y_6s)
 - [A tale of Rust, the ESP32 and IoT](https://www.youtube.com/watch?v=Fz084MUqR7g)
 - [Rust for IOT](https://www.youtube.com/watch?v=P3RUm6__xs4)
 - [Rust вместо Си для программирования ARM Cortex-M/Евгений Пономарев](https://www.youtube.com/watch?v=VJNFPty55ac)
