@@ -3,6 +3,12 @@
 
 ## Interesting talks about Rust
 
+### General
+- [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
+- [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
+- [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
+- [Declarative programming in Rust - Pascal Hertleif](https://www.youtube.com/watch?v=0W20GPEqbcU)
+
 ### Type system
 - [RustConf 2017 - Type System Tips for the Real World by Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
 - [A generalist's view of traits - Pascal Hertleif](https://www.youtube.com/watch?v=3YCqgwpuFM0)
@@ -13,11 +19,6 @@
 - [Rust вместо Си для программирования ARM Cortex-M/Евгений Пономарев](https://www.youtube.com/watch?v=VJNFPty55ac)
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 - [Rust for Embedded Systems - Benedict Gaster](https://www.youtube.com/watch?v=k9X26rmsWEM)
-
-### Libraries
-- [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
-- [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
-- [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
