@@ -20,6 +20,7 @@
 - [Rust вместо Си для программирования ARM Cortex-M/Евгений Пономарев](https://www.youtube.com/watch?v=VJNFPty55ac)
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 - [Rust for Embedded Systems - Benedict Gaster](https://www.youtube.com/watch?v=k9X26rmsWEM)
+- [Bluetooth and Skateboarding: Safety-critical Embedded Rust - Ferdia McKeogh and Jonas Schievink](https://www.youtube.com/watch?v=PUnYA2LJrQY)
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
