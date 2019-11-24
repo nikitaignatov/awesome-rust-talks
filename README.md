@@ -31,6 +31,7 @@
 
 ### Other
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
+- [Bringing Rust Home to Meet the Parents - Jeremy Fitzhardinge](https://www.youtube.com/watch?v=kylqq8pEgRs)
 
 ## ESP32
 
