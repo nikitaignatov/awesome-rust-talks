@@ -32,3 +32,8 @@
 ## ESP32
 
 - [Rust on the ESP32 - Scott Mabin](https://mabez.dev/blog/posts/esp32-rust/)
+
+## Articles
+
+### Embedded
+- [Using Type-Level Programming in Rust to Make Safer Hardware Abstractions - Dan Pittman](https://blog.auxon.io/2019/10/25/type-level-registers/)
