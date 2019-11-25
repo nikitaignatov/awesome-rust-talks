@@ -9,6 +9,7 @@
 - [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
 - [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
 - [Declarative programming in Rust - Pascal Hertleif](https://www.youtube.com/watch?v=0W20GPEqbcU)
+- [The Rust That Could Have Been - Marijn Haverbeke](https://www.youtube.com/watch?v=olbTX95hdbg)
 
 ### Type system
 - [RustConf 2017 - Type System Tips for the Real World - Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
