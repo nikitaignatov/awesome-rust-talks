@@ -4,13 +4,14 @@
 ## Interesting talks about Rust
 
 ### General
+- [Logical Foundations for the Future of Safe Systems Programming - Derek Dreyer](https://www.youtube.com/watch?v=1GjSfyijaxo)
 - [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
 - [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
 - [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
 - [Declarative programming in Rust - Pascal Hertleif](https://www.youtube.com/watch?v=0W20GPEqbcU)
 
 ### Type system
-- [RustConf 2017 - Type System Tips for the Real World by Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
+- [RustConf 2017 - Type System Tips for the Real World - Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
 - [A generalist's view of traits - Pascal Hertleif](https://www.youtube.com/watch?v=3YCqgwpuFM0)
 
 ### Embedded
