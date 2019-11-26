@@ -1,5 +1,4 @@
-# Rusty Stuff
-
+# Awesome Rust Talks & Articles
 
 ## Interesting talks about Rust
 
@@ -23,6 +22,9 @@
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 - [Rust for Embedded Systems - Benedict Gaster](https://www.youtube.com/watch?v=k9X26rmsWEM)
 - [Bluetooth and Skateboarding: Safety-critical Embedded Rust - Ferdia McKeogh and Jonas Schievink](https://www.youtube.com/watch?v=PUnYA2LJrQY)
+
+### Actor Model
+- [Building Actor Systems in Rust - Andrew Stone](https://www.youtube.com/watch?v=hg89CJKIMhI&t=1227s)
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
