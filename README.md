@@ -37,6 +37,11 @@
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - [Bringing Rust Home to Meet the Parents - Jeremy Fitzhardinge](https://www.youtube.com/watch?v=kylqq8pEgRs)
 
+### Courses
+
+#### «Программирование на Rust» - Алексей Александрович Кладов.
+- [1. Введение (Программирование на Rust)](https://www.youtube.com/watch?v=Oy_VYovfWyo)
+
 ## ESP32
 
 - [Rust on the ESP32 - Scott Mabin](https://mabez.dev/blog/posts/esp32-rust/)
