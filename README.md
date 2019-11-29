@@ -22,6 +22,7 @@
 - [Embedded Hardware Development with Rust](https://www.youtube.com/watch?v=g25xsK3HKkE)
 - [Rust for Embedded Systems - Benedict Gaster](https://www.youtube.com/watch?v=k9X26rmsWEM)
 - [Bluetooth and Skateboarding: Safety-critical Embedded Rust - Ferdia McKeogh and Jonas Schievink](https://www.youtube.com/watch?v=PUnYA2LJrQY)
+- [TOCK-OS - Louis Thiery](https://www.youtube.com/watch?v=Q6QwH8tSDkA)
 
 ### Actor Model
 - [Building Actor Systems in Rust - Andrew Stone](https://www.youtube.com/watch?v=hg89CJKIMhI&t=1227s)
