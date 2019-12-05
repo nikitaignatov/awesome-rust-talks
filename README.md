@@ -42,6 +42,8 @@
 
 #### «Программирование на Rust» - Алексей Александрович Кладов.
 - [1. Введение (Программирование на Rust)](https://www.youtube.com/watch?v=Oy_VYovfWyo)
+- [2. Время жизни, ADT. (Программирование на Rust)](https://www.youtube.com/watch?v=WV-m7xRlXMs)
+- [3. Трейты.  (Программирование на Rust)](https://www.youtube.com/watch?v=m9lH5wIV3rQ)
 
 ## ESP32
 
