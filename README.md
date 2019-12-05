@@ -7,6 +7,7 @@
 - [Writing Idiomatic Libraries in Rust - Pascal Hertleif]( https://www.youtube.com/watch?v=0zOg8_B71gE)
 - [Designing for Understanding - Brandon W. Maister](https://www.youtube.com/watch?v=2uBbjq-Trnk)
 - [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
+- [Functional Reactive Rust - Eduard Bopp](https://www.youtube.com/watch?v=Gkz5_XvVEGs)
 - [Declarative programming in Rust - Pascal Hertleif](https://www.youtube.com/watch?v=0W20GPEqbcU)
 - [The Rust That Could Have Been - Marijn Haverbeke](https://www.youtube.com/watch?v=olbTX95hdbg)
 
