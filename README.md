@@ -10,6 +10,7 @@
 - [Functional Reactive Rust - Eduard Bopp](https://www.youtube.com/watch?v=Gkz5_XvVEGs)
 - [Declarative programming in Rust - Pascal Hertleif](https://www.youtube.com/watch?v=0W20GPEqbcU)
 - [The Rust That Could Have Been - Marijn Haverbeke](https://www.youtube.com/watch?v=olbTX95hdbg)
+- [Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich](https://www.youtube.com/watch?v=k7nAtrwPhR8)
 
 ### Type system
 - [RustConf 2017 - Type System Tips for the Real World - Sean Griffin](https://www.youtube.com/watch?v=wxPehGkoNOw)
