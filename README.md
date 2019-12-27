@@ -29,6 +29,7 @@
 
 ### Actor Model
 - [Building Actor Systems in Rust - Andrew Stone](https://www.youtube.com/watch?v=hg89CJKIMhI&t=1227s)
+- [Actors or Not: Async Event Architectures - Yaroslav Tkachenko](https://www.youtube.com/watch?v=FM_wuZj83-8)
 
 ### Web API 
 - [Intro Into Web Framework ‘Rocket’ - Sergio Benitez](https://www.youtube.com/watch?v=nJWN0wrPHRo)
