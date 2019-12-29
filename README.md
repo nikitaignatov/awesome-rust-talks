@@ -18,6 +18,9 @@
 - [A generalist's view of traits - Pascal Hertleif](https://www.youtube.com/watch?v=3YCqgwpuFM0)
 - [The Power of the "Where" Clause - Florian Gilcher](https://www.youtube.com/watch?v=jSpio0x7024)
 
+### Testing
+- [Why you'd be better off using QuickCheck when porting to Rust - Martin Hellspong](https://www.youtube.com/watch?v=P4iyEX-4kYI)
+
 ### Embedded
 - [BMP180 example on Raspberry Pi - Claus Matzinger](https://www.youtube.com/watch?v=VMaKQ8_y_6s)
 - [A tale of Rust, the ESP32 and IoT](https://www.youtube.com/watch?v=Fz084MUqR7g)
